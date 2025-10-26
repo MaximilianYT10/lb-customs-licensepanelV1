@@ -60,7 +60,7 @@ eine Kombination aus Python-Backend und PHP-Frontend.
 
 ### 1️⃣ Clone the Repository / Repository klonen
 ```bash
-git clone https://github.com/YOUR_USERNAME/lb-customs-licensepanelV1.git
+git clone https://github.com/MaximilianYT10/lb-customs-licensepanelV1.git
 cd lb-customs-licensepanelV1
 ```
 
